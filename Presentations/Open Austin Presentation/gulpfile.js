@@ -9,7 +9,7 @@ var browserSync = require('browser-sync');
 // configuration object
 var config = {
 	proxyUrl: "http://localhost:8080",
-	browser: "chrome",
+	browser: "google chrome",
 	port: 7000,
 	paths: {
 		files: "./index.html",
